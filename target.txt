@@ -1,5 +1,7 @@
 this my fist git
 xixixi
 secondxixi
-gitgitgitgit
+gitgitgit
 冲突测试
+=======
+碰撞
